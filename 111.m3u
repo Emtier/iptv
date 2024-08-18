@@ -1,0 +1,131 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.ilisuo.cn/Emtier/iptv/main/111.m3u
+
+#EXTINF:-1 group-title="CCTV",CCTV1
+https://henan.ilisuo.cn/rtp/225.1.4.73:1102
+#EXTINF:-1 group-title="CCTV",CCTV2
+https://henan.ilisuo.cn/rtp/225.1.4.74:1103
+#EXTINF:-1 group-title="CCTV",CCTV3
+https://henan.ilisuo.cn/rtp/225.1.4.158:1194
+#EXTINF:-1 group-title="CCTV",CCTV4
+https://henan.ilisuo.cn/rtp/225.1.5.30:1333
+#EXTINF:-1 group-title="CCTV",CCTV5
+https://henan.ilisuo.cn/rtp/225.1.4.159:1195
+#EXTINF:-1 group-title="CCTV",CCTV5+
+https://henan.ilisuo.cn/rtp/225.1.4.75:1104
+#EXTINF:-1 group-title="CCTV",CCTV6
+https://henan.ilisuo.cn/rtp/225.1.4.160:1196
+#EXTINF:-1 group-title="CCTV",CCTV7
+https://henan.ilisuo.cn/rtp/225.1.4.76:1105
+#EXTINF:-1 group-title="CCTV",CCTV8
+https://henan.ilisuo.cn/rtp/225.1.4.161:1197
+#EXTINF:-1 group-title="CCTV",CCTV9
+https://henan.ilisuo.cn/rtp/225.1.4.77:1106
+#EXTINF:-1 group-title="CCTV",CCTV10
+https://henan.ilisuo.cn/rtp/225.1.4.78:1107
+#EXTINF:-1 group-title="CCTV",CCTV11
+https://henan.ilisuo.cn/rtp/225.1.4.215:1268
+#EXTINF:-1 group-title="CCTV",CCTV12
+https://henan.ilisuo.cn/rtp/225.1.4.79:1108
+#EXTINF:-1 group-title="CCTV",CCTV13
+https://henan.ilisuo.cn/rtp/225.1.4.113:1293
+#EXTINF:-1 group-title="CCTV",CCTV14
+https://henan.ilisuo.cn/rtp/225.1.4.80:1109
+#EXTINF:-1 group-title="CCTV",CCTV15
+https://henan.ilisuo.cn/rtp/225.1.4.216:1269
+#EXTINF:-1 group-title="CCTV",CCTV16
+https://henan.ilisuo.cn/rtp/225.1.5.46:1356
+#EXTINF:-1 group-title="CCTV",CCTV17
+https://henan.ilisuo.cn/rtp/225.1.4.226:2506
+#EXTINF:-1 group-title="卫视频道",河南卫视4K
+https://henan.ilisuo.cn/rtp/225.1.4.254:1300
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+https://henan.ilisuo.cn/rtp/225.1.4.234:1280
+#EXTINF:-1 group-title="卫视频道",东南卫视
+https://henan.ilisuo.cn/rtp/225.1.4.228:1274
+#EXTINF:-1 group-title="卫视频道",东方卫视
+https://henan.ilisuo.cn/rtp/225.1.4.85:1114
+#EXTINF:-1 group-title="卫视频道",云南卫视
+https://henan.ilisuo.cn/rtp/225.1.4.33:1062
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+https://henan.ilisuo.cn/rtp/225.1.4.97:1126
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+https://henan.ilisuo.cn/rtp/225.1.4.45:1074
+#EXTINF:-1 group-title="卫视频道",北京卫视
+https://henan.ilisuo.cn/rtp/225.1.4.81:1110
+#EXTINF:-1 group-title="卫视频道",厦门卫视
+https://henan.ilisuo.cn/rtp/225.1.4.95:1124
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+https://henan.ilisuo.cn/rtp/225.1.4.174:1309
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://henan.ilisuo.cn/rtp/225.1.4.151:1306
+#EXTINF:-1 group-title="卫视频道",天津卫视
+https://henan.ilisuo.cn/rtp/225.1.4.86:1115
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+https://henan.ilisuo.cn/rtp/225.1.4.87:1116
+#EXTINF:-1 group-title="卫视频道",山东卫视
+https://henan.ilisuo.cn/rtp/225.1.4.88:1117
+#EXTINF:-1 group-title="卫视频道",山西卫视
+https://henan.ilisuo.cn/rtp/225.1.4.38:1067
+#EXTINF:-1 group-title="卫视频道",广东卫视
+https://henan.ilisuo.cn/rtp/225.1.4.166:1207
+#EXTINF:-1 group-title="卫视频道",广西卫视
+https://henan.ilisuo.cn/rtp/225.1.4.31:1060
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+https://henan.ilisuo.cn/rtp/225.1.4.47:1076
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+https://henan.ilisuo.cn/rtp/225.1.4.83:1112
+#EXTINF:-1 group-title="卫视频道",江西卫视
+https://henan.ilisuo.cn/rtp/225.1.4.139:1305
+#EXTINF:-1 group-title="卫视频道",河北卫视
+https://henan.ilisuo.cn/rtp/225.1.4.123:1304
+#EXTINF:-1 group-title="卫视频道",河南卫视
+https://henan.ilisuo.cn/rtp/225.1.4.98:1127
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://henan.ilisuo.cn/rtp/225.1.4.84:1113
+#EXTINF:-1 group-title="卫视频道",海南卫视
+https://henan.ilisuo.cn/rtp/225.1.4.195:1310
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+https://henan.ilisuo.cn/rtp/225.1.4.90:1119
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+https://henan.ilisuo.cn/rtp/225.1.4.89:1118
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://henan.ilisuo.cn/rtp/225.1.4.82:1111
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+https://henan.ilisuo.cn/rtp/225.1.4.42:1071
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+https://henan.ilisuo.cn/rtp/225.1.4.46:1075
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+https://henan.ilisuo.cn/rtp/225.1.4.122:1302
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+https://henan.ilisuo.cn/rtp/225.1.4.167:1208
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+https://henan.ilisuo.cn/rtp/225.1.4.157:1308
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+https://henan.ilisuo.cn/rtp/225.1.4.39:1068
+#EXTINF:-1 group-title="卫视频道",青海卫视
+https://henan.ilisuo.cn/rtp/225.1.4.44:1073
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+https://henan.ilisuo.cn/rtp/225.1.4.28:1057
+#EXTINF:-1 group-title="卫视频道",CGTN
+https://henan.ilisuo.cn/rtp/225.1.4.16:1045
+#EXTINF:-1 group-title="卫视频道",CHC动作电影
+https://henan.ilisuo.cn/rtp/225.1.4.208:1261
+#EXTINF:-1 group-title="卫视频道",CHC家庭影院
+https://henan.ilisuo.cn/rtp/225.1.4.209:1262
+#EXTINF:-1 group-title="卫视频道",CHC电影
+https://henan.ilisuo.cn/rtp/225.1.4.207:1260
+#EXTINF:-1 group-title="卫视频道",IPTV法治
+https://henan.ilisuo.cn/rtp/225.1.4.188:1237
+#EXTINF:-1 group-title="卫视频道",IPTV相声小品
+https://henan.ilisuo.cn/rtp/225.1.4.186:1235
+#EXTINF:-1 group-title="卫视频道",IPTV谍战剧场
+https://henan.ilisuo.cn/rtp/225.1.4.185:1240
+#EXTINF:-1 group-title="卫视频道",IPTV野外
+https://henan.ilisuo.cn/rtp/225.1.4.187:1236
+#EXTINF:-1 group-title="卫视频道",河南梨园频道
+https://henan.ilisuo.cn/rtp/225.1.4.99:1128
+#EXTINF:-1 group-title="卫视频道",河南电视剧频道
+https://henan.ilisuo.cn/rtp/225.1.4.55:1084

@@ -1,3 +1,8 @@
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://raw.ilisuo.cn/Emtier/iptv/main/1.m3u
+
 #EXTINF:-1 group-title="CCTV",CCTV1
 http://125.47.75.16:8888/rtp/225.1.4.73:1102
 #EXTINF:-1 group-title="CCTV",CCTV2

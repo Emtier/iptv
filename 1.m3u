@@ -1,6 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://raw.ilisuo.cn/Emtier/iptv/main/1.m3u
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.ilisuo.cn/tv/CCTV1.png" group-title="CCTV",CCTV1

@@ -45,7 +45,6 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.226:2506
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.85:1114
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.81:1110
-
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.174:1309
 #EXTINF:-1 group-title="卫视频道",四川卫视
@@ -60,8 +59,6 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.88:1117
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.38:1067
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.166:1207
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://iserver.asuscomm.cn:18848/rtp/225.1.4.31:1060
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.83:1112
 #EXTINF:-1 group-title="卫视频道",江西卫视
@@ -80,17 +77,16 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.90:1119
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.89:1118
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.82:1111
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://iserver.asuscomm.cn:18848/rtp/225.1.4.42:1071
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.122:1302
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.167:1208
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.157:1308
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://iserver.asuscomm.cn:18848/rtp/225.1.4.39:1068
-
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://iserver.asuscomm.cn:18848/rtp/225.1.4.91:1120
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://iserver.asuscomm.cn:18848/rtp/225.1.4.152:1307
 
 #EXTINF:-1 group-title="河南卫视频道",河南都市频道
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.52:1081
@@ -99,9 +95,12 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.99:1128
 #EXTINF:-1 group-title="河南卫视频道",河南电视频道
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.55:1084
 
-
-#EXTINF:-1 group-title="偏远卫视频道",黑龙江卫视
-http://iserver.asuscomm.cn:18848/rtp/225.1.4.28:1057
+#EXTINF:-1 group-title="偏远卫视频道",陕西卫视
+http://iserver.asuscomm.cn:18848/rtp/225.1.4.39:1068
+#EXTINF:-1 group-title="偏远卫视频道",甘肃卫视
+http://iserver.asuscomm.cn:18848/rtp/225.1.4.42:1071
+#EXTINF:-1 group-title="偏远卫视频道",广西卫视
+http://iserver.asuscomm.cn:18848/rtp/225.1.4.31:1060
 #EXTINF:-1 group-title="偏远卫视频道",厦门卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.95:1124
 #EXTINF:-1 group-title="偏远卫视频道",西藏卫视
@@ -112,8 +111,6 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.44:1073
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.47:1076
 #EXTINF:-1 group-title="偏远卫视频道",东南卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.228:1274
-#EXTINF:-1 group-title="偏远卫视频道",云南卫视
-http://iserver.asuscomm.cn:18848/rtp/225.1.4.33:1062
 #EXTINF:-1 group-title="偏远卫视频道",兵团卫视
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.97:1126
 #EXTINF:-1 group-title="偏远卫视频道",内蒙古卫视

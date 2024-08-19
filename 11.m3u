@@ -98,7 +98,7 @@ http://iserver.asuscomm.cn:18848/rtp/225.1.4.28:1057
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.52:1081
 #EXTINF:-1 group-title="河南卫视频道",河南梨园频道
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.99:1128
-#EXTINF:-1 group-title="河南卫视频道",河南电视剧频道
+#EXTINF:-1 group-title="河南卫视频道",河南电视频道
 http://iserver.asuscomm.cn:18848/rtp/225.1.4.55:1084
 
 #EXTINF:-1 group-title="偏远卫视频道",西藏卫视
